@@ -1,16 +1,16 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      jdecent                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Jekyll Decent"                               # used to display author name
+  initial:      ijimenez                                       # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Ismael Jimenez"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
-  bio:          This is my bio!                               # OPTIONAL: text below author name in posts
-  location:     Germany                                       # OPTIONAL: used to display location of the author
+  picture:      /assets/profile.jpeg                           # OPTIONAL: author picture
+  bio:          Cloud Security Architect                               # OPTIONAL: text below author name in posts
+  location:     Mexico                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
-  twitter:                                                    # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
+  twitter:      "tuxtter"                                                   # OPTIONAL: used in the about page
+  linkedin:     "tuxtter"                                              # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
-  github:                                                     # OPTIONAL: used in the about page
+  github:       "tuxtter"                                              # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page
@@ -24,15 +24,15 @@ default:                                                      # Fallback if noth
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
 jdecent:
-  initial:      jdecent
-  name:         "Jekyll Decent"       
+  initial:      tuxtter
+  name:         "Ismael Jimenez"       
   cover:        /assets/mountain-alternative-cover.jpg  
-  picture:      /assets/johndoe.jpg  
-  bio:          This is my bio!
-  location:     Germany
-  email:        "-"   
-  twitter:      "-"    
-  twitch:       "-"
+  picture:      /assets/profile.jpeg  
+  bio:          Cloud Security Architect
+  location:     Mexico   
+  twitter:      "tuxtter"    
+  github:       "tuxtter"
+  linkedin:     "tuxtter"
 jwillmer:
   initial:      jwillmer
   name:         "Jens Willmer"        
