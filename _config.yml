@@ -12,7 +12,7 @@ description:      El rincon del tuxtter
 keywords:         tuxtter telecomm security devops network github pages blog
 language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
-baseurl:          "/" # the subpath of your site, e.g. /blog
+baseurl:          "/blog" # the subpath of your site, e.g. /blog
 #url:              "https://tuxtter.net" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /:categories/:title
 cover:            /assets/mountain-cover.jpg
